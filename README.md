@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- Linkedin -->
-<a href="[www.linkedin.com/in/khan-m-hasani1379](https://www.linkedin.com/in/khan-m-hasani1379)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khan-mohammad-hasani-b40a51272" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khan-m-hasani1379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khan-mohammad-hasani-b40a51272" height="30" width="40" /></a>
 <!-- StackOverFlow -->
 <a href="https://stackoverflow.com/users/21777381/khan-mohammad-hasani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21777381/khan-mohammad-hasani" height="30" width="40" /></a>
 <!-- Whatsapp -->
