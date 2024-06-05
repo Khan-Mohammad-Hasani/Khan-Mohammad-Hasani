@@ -14,7 +14,7 @@
 - 🌱 I’m currently studying **Software Engineering at Kabul University.**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, Java, Python,Dart & Flutter.**
-- 
+
 - 📫 How to reach me: **khan.m.hasani22@gmail.com**
 
 <!-- Contact info -->
